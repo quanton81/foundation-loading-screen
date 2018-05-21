@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Loading Screen for Foundation</title>
         <link rel="stylesheet" href="css/foundation.css">
-        <link rel="stylesheet" href="css/app.css">
         <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
         <style>
             .fi-loop {
